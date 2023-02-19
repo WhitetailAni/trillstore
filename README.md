@@ -17,3 +17,5 @@ Media player has quite a few functions.
 7. Softlock app in an alert loop
 
 Have fun ig
+
+edit: you'll probably have to do some modifications to Build Phases to get the videos to work. Yes, you can view the full list of videos I use. do I care? no
